@@ -1,0 +1,10 @@
+/* font url import part start*/
+
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+/* font url import part end */
+/* Font style setting part start */
+
+* {
+    font-family: 'Do Hyeon', sans-serif;
+}
