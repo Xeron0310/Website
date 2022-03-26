@@ -1,0 +1,21 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    color: #000;
+    box-sizing: border-box;
+}
+
+.container { /* The container performs the same role as the main tag. */
+	width:1440px;
+	margin:0 auto;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+	outline: none;
+}
